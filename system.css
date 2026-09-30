@@ -202,7 +202,7 @@ select {
 
 /* rounded tokens /classes */
 .rounded-sm {
-  border-radius: var(--radius-sm);
+  border-radius: var(--s-sm);
 }
 .rounded-md {
   border-radius: var(--radius-md);
